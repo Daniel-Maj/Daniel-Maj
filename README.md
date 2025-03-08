@@ -23,5 +23,4 @@ alt="Views Counter"/>
     <img src="https://skillicons.dev/icons?i=github,git,mysql,py,html,gcp" />
   </a>
 </p>
-<h4> Projects </h4>
-  <a href="https://lookerstudio.google.com/reporting/169f037e-b009-4d4c-85b6-695fdf61dd09">Analysing the Risk of stock portfolio dashboard</a>
+
