@@ -10,7 +10,7 @@ alt="Views Counter"/>
 </div>
 
 <h4> About Me :relaxed: </h4>
-<h5> 🎯 **Aspiring Data Analyst | Passionate About Data-Driven Decision Making & Data Visualizations**
+<h5> 🎯 Data Analyst | Passionate About Data-Driven Decision Making & Data Visualizations
 
 I have a background in **business, marketing, and community engagement**, with a growing expertise in **data analytics**. My goal is to **turn complex data into meaningful insights** that drive business decisions, particularly in the **music and entertainment industry**.
 <h5>
