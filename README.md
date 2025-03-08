@@ -14,7 +14,7 @@ alt="Views Counter"/>
   
 </h5>
 
-I have a background in **business, marketing, and community engagement**, with a growing expertise in **data analytics**. My goal is to **turn complex data into meaningful insights** that drive business decisions, particularly in the **music and entertainment industry**.
+I have a background in **business, marketing, and community engagement**,
 <h5>
   <ul>
   <li> Data Analyst </li>
