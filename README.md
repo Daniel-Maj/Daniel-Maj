@@ -18,7 +18,7 @@ alt="Views Counter"/>
 
 <h5>
   <ul>
-  <li> Data Analyst </li>
+  <li> </li>
 
 </ul>
   </h5>
