@@ -1,3 +1,6 @@
+![My Banner](https://www.canva.com/design/DAGhhBSJ9Go/10LIuOiMj9W2Q3eVLhWKYQ/edit?utm_content=DAGhhBSJ9Go&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/banner.png)
+
+
 <div id="header" align="center">
   <h2> 👋 Hello, I'm Daniel :computer: <h2>
   <img   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTByMHB1NHY0a2Rtamgyemg3OGUwdWlhYTM1azlrdXNlbHB1bGxpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
