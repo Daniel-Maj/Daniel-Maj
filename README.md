@@ -18,7 +18,8 @@ alt="Views Counter"/>
 
 <h5>
   <ul>
-  <li> </li>
+  <li> Currently based in London but I'm ready for an adventure </li>
+  <Li> Honing my Data Analytics skills with the online Courses </li>
 
 </ul>
   </h5>
