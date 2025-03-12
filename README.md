@@ -1,3 +1,6 @@
+![My Banner](https://github.com/Daniel-Maj/Daniel-Maj/blob/mainhttps://github.com/Daniel-Maj/Daniel-Maj/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png?raw=true/)
+
+
 <div id="header" align="center">
   <h2> 👋 Hello, I'm Daniel :computer: <h2>
   <img   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTByMHB1NHY0a2Rtamgyemg3OGUwdWlhYTM1azlrdXNlbHB1bGxpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
