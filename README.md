@@ -1,5 +1,4 @@
-![My Banner](https://www.canva.com/design/DAGhhBSJ9Go/10LIuOiMj9W2Q3eVLhWKYQ/edit?utm_content=DAGhhBSJ9Go&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/banner.png)
-
+![My Banner](https://raw.githubusercontent.com/Daniel-Maj/Daniel-Maj/main/Github%20Banner.png)
 
 <div id="header" align="center">
   <h2> 👋 Hello, I'm Daniel :computer: <h2>
