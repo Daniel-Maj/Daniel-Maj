@@ -13,7 +13,7 @@ alt="Views Counter"/>
 <h5> 🎯 Data Analyst | Passionate About Data-Driven Decision Making & Data Visualizations <h5>
   
 </h5>
-With a background in **Marketing**
+With a background in *Marketing*
 <h5>
   <ul>
   <li> Data Analyst </li>
